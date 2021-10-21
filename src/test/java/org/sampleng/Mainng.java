@@ -31,6 +31,10 @@ public class Mainng extends Baseclass {
 		btnclick(p.getClick());
 		System.out.println("B2 Success");
 		
+		
+		System.out.println("Finish");
+		System.out.println("New Git update");
+		
 	}
 
 }
